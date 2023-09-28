@@ -1,3 +1,3 @@
-# C_Codes
+# C_Codes (Patterns)
 This repository just contains my practice code, most of which are pattern printing codes.
 Hope to see you benefit from this...
