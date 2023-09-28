@@ -1,3 +1,3 @@
 # C_Codes
-This repository just contains my practice code, most of which are pattern printing codes, except reversing a number.
+This repository just contains my practice code, most of which are pattern printing codes.
 Hope to see you benefit from this...
